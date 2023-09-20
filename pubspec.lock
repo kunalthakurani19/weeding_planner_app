@@ -87,7 +87,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_gif:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_gif
       sha256: b13d7e484e40685e9236ffbaddf012c2448a2e2c1ac48bed345184dd7bc87f88
@@ -103,7 +103,7 @@ packages:
     source: hosted
     version: "2.0.3"
   flutter_sizer:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_sizer
       sha256: "8807183611c902697de0c07fc7f87051b25cf1d2cf6b0a7792260b2c47122735"
@@ -111,7 +111,7 @@ packages:
     source: hosted
     version: "1.0.5"
   flutter_svg:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_svg
       sha256: "8c5d68a82add3ca76d792f058b186a0599414f279f00ece4830b9b231b570338"
@@ -124,7 +124,7 @@ packages:
     source: sdk
     version: "0.0.0"
   google_fonts:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: google_fonts
       sha256: "0833bfcc1c32560ee51d381fcf1d6d6b35921e89afe852c12f83dc8c00b2e6bc"
@@ -132,7 +132,7 @@ packages:
     source: hosted
     version: "6.0.0"
   gradient_borders:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: gradient_borders
       sha256: "69eeaff519d145a4c6c213ada1abae386bcc8981a4970d923e478ce7ba19e309"
@@ -156,7 +156,7 @@ packages:
     source: hosted
     version: "4.0.2"
   intl_phone_field:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: intl_phone_field
       sha256: "73819d3dfcb68d2c85663606f6842597c3ddf6688ac777f051b17814fe767bbf"
@@ -292,7 +292,7 @@ packages:
     source: hosted
     version: "2.1.6"
   sizer:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: sizer
       sha256: d2b3cb6cbc4a637f508dacd786bae55df31e5fc088044248a43e4fd1e050c117
@@ -321,7 +321,7 @@ packages:
     source: hosted
     version: "1.11.0"
   step_progress_indicator:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: step_progress_indicator
       sha256: b51bb1fcfc78454359f0658c5a2c21548c3825ebf76e826308e9ca10f383bbb8
